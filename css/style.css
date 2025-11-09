@@ -16,6 +16,12 @@ header {
   justify-content: space-between;
 }
 
+
+
+header img {
+  margin-inline: 0;
+}
+
 /* header img { */
 /* border: orange 5px solid; */
 /* } */
